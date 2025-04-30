@@ -1,0 +1,19 @@
+#header{
+    background-color:rgba(35, 35, 173, 0.774) ;
+    margin: 50px 0px 50px 0px;
+    font-family: "Hubballi", sans-serif;
+    text-transform: uppercase;
+    
+}
+
+#nameAndTitle{
+    text-align: center;
+    background-color: white;
+    width: 600px;
+    margin: 0 auto;
+    
+}
+
+.titleAlight{
+    margin: 0;
+}
